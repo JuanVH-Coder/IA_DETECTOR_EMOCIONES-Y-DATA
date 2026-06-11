@@ -131,6 +131,19 @@ La carpeta `exports/` no se versiona porque contiene artefactos generados, image
 
 Proyecto funcional y orientado a experiencia real, con componentes de captura, analisis, generacion visual y explotacion de datos ya integrados.
 
-## Contacto y colaboracion
 
-Si te interesa implementar, adaptar o escalar esta experiencia para una marca, evento o caso de investigacion, este repositorio puede servir como base tecnica para evolucionar la solucion.
+
+https://github.com/user-attachments/assets/a7a69c92-6dc6-4044-b6e7-0005a931448a
+
+
+
+
+https://github.com/user-attachments/assets/2e382fa5-dfd7-4575-ac8a-e1d1d592579e
+
+
+
+
+
+https://github.com/user-attachments/assets/63be10f8-60b5-46fc-ab9b-051f9e365c69
+
+
